@@ -96,9 +96,18 @@ docker push <tu_usuario_docker>/traductor-genai:1.0.0
 ![Docker Hub](https://drive.google.com/uc?export=view&id=1HvDYLmiYJapPtBdUNrG5KAm5fsOCJfmb)
 
 # Paso 7: Ejecución remota
+
+## Tags
+
+Para hacer el pull tiene los siguientes tags
+
+- 1.0.0
+- 1.0.2
+
+
 ```bash
 # 1. Descargar la imagen desde Docker Hub
-docker pull viraviut/genai-translate:1.0.0
+docker pull viraviut/genai-translate:<tag_a_usar>
 
 # 2. Crear la red en docker
 docker network create <nombre_de_red>
@@ -126,7 +135,7 @@ docker run -d \
   -p 7860:7860 \
   -e GEMINI_API_KEY=$MI_API_KEY \
   -e MLFLOW_TRACKING_URI="http://<nombre_contenedor_mlflow>:5000" \
-  viraviut/genai-translate:1.0.0
+  viraviut/genai-translate:<tag_a_usar>
 ```
 
 Si el paso anterior se completó sin ningún inconveniente, debería de ver dos contenedores en la aplicación Docker Desktop
