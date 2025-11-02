@@ -93,7 +93,7 @@ docker push <tu_usuario_docker>/traductor-genai:1.0.0
 ```
 
 # Imagen en Docker Hub
-[Docker Hub](https://drive.google.com/uc?export=view&id=1HvDYLmiYJapPtBdUNrG5KAm5fsOCJfmb)
+![Docker Hub](https://drive.google.com/uc?export=view&id=1HvDYLmiYJapPtBdUNrG5KAm5fsOCJfmb)
 
 # Paso 7: Ejecución remota
 ```bash
@@ -130,7 +130,7 @@ docker run -d \
 ```
 
 Si el paso anterior se completó sin ningún inconveniente, debería de ver dos contenedores en la aplicación Docker Desktop
-[Docker Desktop](https://drive.google.com/uc?export=view&id=1FRXZbScZR4PTloxcJghc8cIvrKfjaZYQ)
+![Docker Desktop](https://drive.google.com/uc?export=view&id=1FRXZbScZR4PTloxcJghc8cIvrKfjaZYQ)
 Para abrir la aplicación solo tienes que abrir las direcciones
     - Gradio (`localhost:7860`)
     - MLFLOW (`localhost:5000`)
@@ -139,25 +139,25 @@ En tu navegador de preferencia, o hacer click donde aparecen los puertos en los 
 # Recopilatorio de fotos del programa funcionando
 
 # Gradio app
-[App Gradio Ejecutando](https://drive.google.com/uc?export=view&id=13it2xQj7AYRmIVcOCsIbvH3M6zPOm1gr)
+![App Gradio Ejecutando](https://drive.google.com/uc?export=view&id=13it2xQj7AYRmIVcOCsIbvH3M6zPOm1gr)
 
 # MLFLOW UI
-[MLFLOW UI](https://drive.google.com/uc?export=view&id=1ak2t-DdLa_ZFdTUZyIdEaxaUGr3vbv86)
+![MLFLOW UI](https://drive.google.com/uc?export=view&id=1ak2t-DdLa_ZFdTUZyIdEaxaUGr3vbv86)
 
 # VARIAS RUNS
-[VARIAS RUNS](https://drive.google.com/uc?export=view&id=1ZXjUwEVBHX0DtZmvzCgdZMsrSvldOQmm)
+![VARIAS RUNS](https://drive.google.com/uc?export=view&id=1ZXjUwEVBHX0DtZmvzCgdZMsrSvldOQmm)
 
 # INFO RUN
-[INFO RUN UNICA](https://drive.google.com/uc?export=view&id=1Ow5-oP38P6WoXRjJM6PdfDEdG06F49Y_)
+![INFO RUN UNICA](https://drive.google.com/uc?export=view&id=1Ow5-oP38P6WoXRjJM6PdfDEdG06F49Y_)
 
 # METRICAS DE UNA RUN
-[METRICAS DE UNA RUN](https://drive.google.com/uc?export=view&id=1enVelNm59fZNIEe892_JrWTvw8vK6b96)
+![METRICAS DE UNA RUN](https://drive.google.com/uc?export=view&id=1enVelNm59fZNIEe892_JrWTvw8vK6b96)
 
 # ARTIFACT PETICION
-[ARTIFACT TEXTO A TRADUCIR](https://drive.google.com/uc?export=view&id=1oZd7dF1h-UNXY_SIQjtazpKE5eUPhxxP)
+![ARTIFACT TEXTO A TRADUCIR](https://drive.google.com/uc?export=view&id=1oZd7dF1h-UNXY_SIQjtazpKE5eUPhxxP)
 
 # ARTIFACT RESPUESTA
-[ARTIFACT TEXTO TRADUCIDO](https://drive.google.com/uc?export=view&id=1buCX5EDRgW2XAxPljaEr2Tlu9LwB5wOb)
+![ARTIFACT TEXTO TRADUCIDO](https://drive.google.com/uc?export=view&id=1buCX5EDRgW2XAxPljaEr2Tlu9LwB5wOb)
 
 ## Authors
 
